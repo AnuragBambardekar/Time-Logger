@@ -7,6 +7,8 @@ Timestamp Logger is a simple GUI application built using Python's Tkinter librar
 - Prevent logging exit time without an entry time.
 - Store timestamps in an Excel file.
 
+- Calculates Duration between Entry and Exit
+
 # Requirements
 - Python 3.x
 - pandas library (install using pip install pandas)
