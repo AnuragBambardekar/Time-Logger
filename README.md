@@ -29,7 +29,7 @@ pip install pandas
 - Run the script:
 
 ```cmd
-python timestamp_logger.py
+python main2.py
 ```
 - The GUI window will open, showing fields for "Entry Time" and "Exit Time" along with buttons to log the times.
 
